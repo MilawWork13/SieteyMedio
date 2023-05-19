@@ -1,0 +1,9 @@
+edu\fpdual\web\client\PlayerClient.class
+edu\fpdual\web\client\dto\Player.class
+edu\fpdual\web\client\service\servlet\IntroducirJugador.class
+edu\fpdual\web\client\service\servlet\RegistrarPartido.class
+edu\fpdual\web\client\GameClient.class
+edu\fpdual\web\client\service\servlet\ComprobarJugador.class
+edu\fpdual\web\client\dto\Game$GameBuilder.class
+edu\fpdual\web\client\dto\Game.class
+edu\fpdual\web\client\dto\Player$PlayerBuilder.class
