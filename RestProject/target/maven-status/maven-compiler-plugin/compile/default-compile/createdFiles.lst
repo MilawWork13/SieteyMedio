@@ -1,0 +1,12 @@
+edu\fpdual\persistence\connector\MySQLConnector.class
+edu\fpdual\api\dao\Player$PlayerBuilder.class
+edu\fpdual\persistence\connector\manager\impl\PlayerManagerImpl.class
+edu\fpdual\service\GameService.class
+edu\fpdual\api\dao\Game$GameBuilder.class
+edu\fpdual\api\dao\Game.class
+edu\fpdual\controller\PlayerController.class
+edu\fpdual\persistence\connector\manager\impl\GameManagerImpl.class
+edu\fpdual\persistence\connector\MySQLConstants.class
+edu\fpdual\service\PlayerService.class
+edu\fpdual\api\dao\Player.class
+edu\fpdual\controller\GameController.class
