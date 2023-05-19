@@ -66,20 +66,26 @@
                                     </div>
 
                                     <!-- Checkbox & Sign in Row-->
-                                    <div class="row justify-content-start">
-                                        <div class="col-lg-3">
+                                    <div class="row">
+                                        <div class="col-3">
                                             <form action="/WebProject/index.jsp" method="GET" id="formIndex">
                                                 <button type="submit" class="btn btn-danger col-lg-12 mb-4"
                                                     id="buttonRegister">
                                                     Registrarse
                                                 </button>
                                             </form>
-
                                         </div>
-                                        <div class="col-lg-10">
+                                        <div class="col-6">
                                             <form action="/WebProject/index.jsp" method="GET">
                                                 <button type="submit" class="btn btn-dark">
                                                     Comenzar juego sin usuario
+                                                </button>
+                                            </form>
+                                        </div>
+                                        <div class="col-3">
+                                            <form action="/WebProject/index.jsp" method="GET">
+                                                <button type="submit" class="btn btn-secondary">
+                                                    INICIO
                                                 </button>
                                             </form>
                                         </div>

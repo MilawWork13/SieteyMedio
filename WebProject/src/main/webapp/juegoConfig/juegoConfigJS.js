@@ -365,7 +365,7 @@ for (let i = 0; i < showUnknownUserButtons.length; i++) {
             let start = true;
 
             // Check if any confirmButtons are enabled or nombres[] has less than 4 elements
-            if (confirmButtonsArr.some(button => !button.disabled) || nombres.length < 4) {
+            if (nombres.length < 4) {
                 start = false;
                 alert("Hacen falta más jugadores!");
             }
